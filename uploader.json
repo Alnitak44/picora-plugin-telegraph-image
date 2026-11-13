@@ -12,6 +12,7 @@
       "key": "baseUrl",
       "label": "图床基础 URL",
       "type": "text",
+      "role": "endpoint",
       "hint": "例如 https://images.example.com，不要添加 /upload",
       "required": true
     },
